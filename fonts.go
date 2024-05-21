@@ -16,7 +16,7 @@ var fontsSimple = DefaultEmbeddedFonts.LoadFontsByNames([]string{
 	"fonts/RitaSmith.ttf",
 	"fonts/actionj.ttf",
 	"fonts/chromohv.ttf",
-	"fonts/sans.ttf",
+	"fonts/ubuntu-sans.ttf",
 })
 
 // var fontemoji = loadFontByName("fonts/seguiemj.ttf")
